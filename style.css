@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(204, 203, 203) ;
+    text-align: center;
+}
+
+.mountain {
+    object-fit: cover;
+    width: 100%;
+    height: 600px;
+}
+
+.head {
+    width: 50%;
+    color: rgb(0, 0, 0);
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    font-size: 2rem;
+}
+div > p {
+    font-weight: 200;
+}
+.imgg {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.hrr {
+    
+    border: dotted #000000 6px;
+    border-bottom: none;
+    margin-top: 50px;
+    width: 5%;
+}
+hr {
+    border: double ; 
+    width: 200px; 
+}
+
+.deer {
+    background-color: #000000;
+   color: white;
+    border-radius: 10px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
